@@ -120,7 +120,7 @@
     "react-syntax-highlight": "0.0.2",
     "react-syntax-highlighter": "^2.8.0",
     "redux": "^3.6.0",
-    "redux-form": "6.1.1",
+    "redux-form": "6.8.0",
     "redux-thunk": "^2.1.0",
     "request": "^2.75.0",
     "revalidate": "git://github.com/web-pal/revalidate.git#forTemUsage",
